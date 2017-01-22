@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F452A8FF-4575-FEAF-7FA4-6C12504E22DE}") = "JellyFishGame", "Assembly-CSharp-firstpass.csproj", "{784281F3-3A8A-BBB2-834F-5CD844A64106}"
+EndProject
+Project("{F452A8FF-4575-FEAF-7FA4-6C12504E22DE}") = "JellyFishGame", "Assembly-CSharp.csproj", "{A2E02E22-7ABA-86CA-AAD6-90696AB6C80A}"
+EndProject
+Project("{F452A8FF-4575-FEAF-7FA4-6C12504E22DE}") = "JellyFishGame", "Assembly-CSharp-Editor.csproj", "{0575C898-B181-94AE-835E-5E7A5D34A4A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784281F3-3A8A-BBB2-834F-5CD844A64106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784281F3-3A8A-BBB2-834F-5CD844A64106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784281F3-3A8A-BBB2-834F-5CD844A64106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784281F3-3A8A-BBB2-834F-5CD844A64106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E02E22-7ABA-86CA-AAD6-90696AB6C80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E02E22-7ABA-86CA-AAD6-90696AB6C80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E02E22-7ABA-86CA-AAD6-90696AB6C80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E02E22-7ABA-86CA-AAD6-90696AB6C80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0575C898-B181-94AE-835E-5E7A5D34A4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0575C898-B181-94AE-835E-5E7A5D34A4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0575C898-B181-94AE-835E-5E7A5D34A4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0575C898-B181-94AE-835E-5E7A5D34A4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
